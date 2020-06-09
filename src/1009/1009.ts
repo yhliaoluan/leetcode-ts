@@ -36,6 +36,8 @@ function toBaseTen(baseTwo: string): number {
   return result;
 }
 
-export function bitwiseComplement(N: number): number {
+function bitwiseComplement(N: number): number {
   return toBaseTen(stringComplement(toBaseTwo(N)))
 };
+
+export const func = bitwiseComplement;
