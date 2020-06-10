@@ -1,5 +1,5 @@
 # leetcode-ts
 
-![test](https://github.com/yhliaoluan/leetcode-ts/workflows/test/badge.svg?branch=master)
+![test](https://github.com/yhliaoluan/leetcode-ts/workflows/test/badge.svg?event=push)
 
-Leetcode problems with TypeScript
+Solve leetcode problems using TypeScript.
